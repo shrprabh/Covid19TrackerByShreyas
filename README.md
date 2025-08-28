@@ -28,9 +28,9 @@ A comprehensive COVID-19 tracking application that provides real-time statistics
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
-![Country Stats](screenshots/country_stats.png)
-![Trends](screenshots/trends.png)
+<img width="694" height="424" alt="Screenshot 2025-08-27 at 7 00 11 PM" src="https://github.com/user-attachments/assets/8138f160-0101-456f-bd8b-b24ec23b4e2e" />
+<img width="1171" height="571" alt="image" src="https://github.com/user-attachments/assets/2e1ea98f-9469-4bf8-a84b-c75e409edc91" />
+
 
 ## Installation
 
